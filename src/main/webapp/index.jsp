@@ -2,9 +2,9 @@
 
 <body>
 
-<h2>Hello Kiran Kumar!</h2>
+<h2>Hello Kiran Kumar</h2>
 
-<p>This is my NextWork web application working!</p>
+<p>This is My Web Application</p>
 
 </body>
 
